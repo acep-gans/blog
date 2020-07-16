@@ -1,0 +1,34 @@
+
+baseURL = "https://acep-gans.github.io"
+languageCode = "en-us"
+title = "Acep Xploit"
+disablePathToLower = false
+
+theme = "stip"
+
+[Author]
+    name = "Acep XPloit"
+    bio = "Teknik Komputer dan Jaringan"
+
+
+[params]
+    [[params.links]]
+        icon = "github"
+        title = "Github"
+        url = "https://github.com/aceptriana"
+
+
+   [[params.links]]
+        iconset = "fas"
+        icon = "envelope"
+        title = "E-mail"
+        url = "mailto:acepxcode@gmail.com"
+
+
+defaultContentLanguage = "nl"
+
+[params.colors]
+    background = "#000000"
+    circle = "#3942ba"
+    foreground = "#c7d0fc"
+    hover = "#cd6cf7"
